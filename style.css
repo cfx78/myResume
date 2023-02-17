@@ -1,0 +1,39 @@
+*,
+*::before,
+*::after {
+	padding: 0%;
+	margin: 0%;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Asap', sans-serif;
+	padding: 3rem;
+	font-size: 1.35rem;
+}
+.intro,
+.work,
+.skills,
+.education {
+	margin: 4rem 0;
+}
+
+li {
+	padding: 1rem;
+}
+
+.intro ul {
+	margin-bottom: 2rem;
+}
+.intro p {
+	padding: 0.5rem;
+}
+
+.usps,
+.skills p {
+	margin-top: 1rem;
+}
+
+.college,
+.bootcamp {
+	padding-top: 1rem;
+}
